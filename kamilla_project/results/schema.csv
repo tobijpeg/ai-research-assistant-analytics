@@ -1,0 +1,15 @@
+﻿field,dtype_observed
+arxiv_id,object
+corpusId,int64
+title,object
+authors,object
+year,int64
+publicationDate,object
+citationCount,int64
+influentialCitationCount,int64
+fieldsOfStudy,object
+abstract,object
+fetched_at,object
+citation_refreshed_at,object
+citation_source_release,object
+company,object

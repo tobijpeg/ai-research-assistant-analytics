@@ -1,0 +1,11 @@
+﻿query_id,query,query_ru
+Q01,large language models in education,Большие языковые модели в образовании
+Q02,intelligent tutoring systems student feedback,Обучающие системы и обратная связь студентам
+Q03,automated essay scoring feedback,Автоматическая оценка эссе и обратная связь
+Q04,automatic question generation educational assessment,Генерация вопросов для проверки знаний
+Q05,retrieval augmented generation scientific literature,Поиск научной литературы для RAG
+Q06,scientific paper recommendation,Рекомендация научных публикаций
+Q07,learning analytics student performance prediction,Учебная аналитика и успеваемость
+Q08,hallucination detection factual consistency large language models,Проверка фактической достоверности ответов
+Q09,academic integrity AI generated text detection,Академическая честность и тексты ИИ
+Q10,personalized learning recommendation systems,Персонализированное обучение

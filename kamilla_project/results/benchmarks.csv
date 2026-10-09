@@ -1,0 +1,8 @@
+﻿metric,value
+csv_MB,230.410926
+parquet_MB,122.71055
+csv_read_s,2.579141504999825
+parquet_read_s,0.7396177099999477
+duckdb_aggregation_s,0.003730319000169402
+pandas_parquet_aggregation_s,0.03106264400003056
+protocol,"Медиана 3 последовательных запусков; кэш ОС не очищался. В тесте чтения читаются все столбцы. Для сравнения агрегаций pandas и DuckDB используют один Parquet и только arxiv_month, citationCount. DuckDB: 1 поток. Это среда выполнения, не компьютер студентки."

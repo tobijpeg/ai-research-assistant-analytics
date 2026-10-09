@@ -1,0 +1,7 @@
+{
+  "os": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "python": "3.13.16",
+  "logical_cpus": 2,
+  "system_RAM_GiB": 12.671417236328125,
+  "process_RSS_GiB": 1.1404800415039062
+}

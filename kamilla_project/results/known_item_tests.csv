@@ -1,0 +1,101 @@
+﻿arxiv_id,query_is_exact_title,rank_of_same_record
+2506.09368,Anomaly Detection and Generation with Diffusion Models: A Survey,2.0
+2512.05653,Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing,1.0
+2509.07917,Object-Level Correlation for Few-Shot Segmentation,1.0
+2506.17405,Convergent Proximal Multiblock ADMM for Nonconvex Dynamics-Constrained Optimization,1.0
+2506.12802,Bidirectional Biometric Authentication Using Transciphering and (T)FHE,1.0
+2510.10492,Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework,1.0
+2503.03285,Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations,1.0
+2505.06630,Dynamic Domain Information Modulation Algorithm for Multi-domain Sentiment Analysis,1.0
+2503.06304,Optimization and Benchmarking of Monolithically Stackable Gain Cell Memory for Last-Level Cache,1.0
+2509.21363,A Mutual Learning Method for Salient Object Detection With Intertwined Multi-Supervision,1.0
+2503.10953,Safe Control of Second-Order Systems with Linear Constraints,1.0
+2507.02565,Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning,1.0
+2506.08164,BLUR: A Bi-Level Optimization Approach for LLM Unlearning,1.0
+2510.22702,Atlas Urban Index: A VLM-Based Approach for Spatially and Temporally Calibrated Urban Development Monitoring,1.0
+2505.18026,Near optimal edge partitioning via intersecting families,2.0
+2509.15867,FAIR: Framing AI’s Role in Programming Competitions — Understanding How LLMs Are Changing the Game in Competitive Programming,1.0
+2510.25583,Systematic Non-Binary Extension of LDPC-CSS Codes Preserving Orthogonality,1.0
+2503.16424,Bézier Splatting for Fast and Differentiable Vector Graphics,1.0
+2511.13905,PGD-TO: A Scalable Alternative to MMA Using Projected Gradient Descent for Multi-Constraint Topology Optimization,1.0
+2512.14274,TUN: Detecting Significant Points in Persistence Diagrams with Deep Learning,1.0
+2503.24096,DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description,1.0
+2512.00294,Words into World: A Task-Adaptive Agent for Language-Guided Spatial Retrieval in AR,1.0
+2511.15464,SIGMMA: Hierarchical Graph-Based Multi-Scale Multi-modal Contrastive Alignment of Histopathology Image and Spatial Transcriptome,1.0
+2502.17394,SNaRe: Domain-aware Data Generation for Low-Resource Event Detection,1.0
+2503.05087,Partial Distribution Alignment via Adaptive Optimal Transport,1.0
+2511.00058,Computation as a Game,1.0
+2510.15366,Sequence Modeling with Spectral Mean Flows,1.0
+2503.12921,Objective Measurement of AI Literacy: Development and Validation of the AI Competency Objective Scale (AICOS),1.0
+2510.05530,LATTA: Langevin-Anchored Test-Time Adaptation for Enhanced Robustness and Stability,1.0
+2502.20747,Measuring Determinism in Large Language Models for Software Code Review,1.0
+2504.03439,Early detection of diabetes through transfer learning-based eye (vision) screening and improvement of machine learning model performance and advanced parameter setting algorithms,1.0
+2507.20048,Irredundant k-Fold Cross-Validation,1.0
+2509.16746,On the System Theoretic Offline Learning of Continuous-Time LQR with Exogenous Disturbances,1.0
+2507.11000,ILCL: Inverse Logic-Constraint Learning From Temporally Constrained Demonstrations,1.0
+2507.17234,CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings,1.0
+2504.17287,RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing,1.0
+2511.18877,Computing basis of solutions of any Mahler equation,2.0
+2510.12629,Noisy Neighbor: Exploiting RDMA for Resource Exhaustion Attacks in Containerized Clouds,1.0
+2508.21265,SCE-NTT: A Hardware Accelerator for Number Theoretic Transform Using Superconductor Electronics,1.0
+2510.07871,Learning to Navigate Socially Through Proactive Risk Perception,1.0
+2502.07830,Captured by Captions: On Memorization and its Mitigation in CLIP Models,1.0
+2511.00707,Predicting Encoding Energy from Low-Pass Anchors for Green Video Streaming,1.0
+2507.17748,Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility,1.0
+2505.21903,Enhanced Ideal Objective Vector Estimation for Evolutionary Multi-Objective Optimization,1.0
+2506.10989,Prompt engineering and framework: implementation to increase code reliability based guideline for LLMs,1.0
+2506.20063,When Domains Collide: An Activity Theory Exploration of Cross-Disciplinary Collaboration,1.0
+2508.17233,Module-Aware Parameter-Efficient Machine Unlearning on Transformers,1.0
+2502.01221,Ransomware IR Model: Proactive Threat Intelligence-Based Incident Response Strategy,1.0
+2510.05835,Code Smell Detection via Pearson Correlation and ML Hyperparameter Optimization,1.0
+2503.24014,Optimization of Layer Skipping and Frequency Scaling for Convolutional Neural Networks under Latency Constraint,1.0
+2509.02749,The Impact of Adaptive Emotional Alignment on Mental State Attribution and User Empathy in HRI,1.0
+2511.17111,Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation,1.0
+2509.11876,Lost in Data: How Older Adults Perceive and Navigate Health Data Representations,1.0
+2505.17165,"A Toolkit for Compliance, a Toolkit for Justice: Drawing on Cross-sectoral Expertise to Develop a Pro-justice EU AI Act Toolkit",1.0
+2506.11526,Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis,1.0
+2506.16343,Analyzing the Influence of Knowledge Graph Information on Relation Extraction,1.0
+2512.01391,INFERMAL: Inferential analysis of maliciously registered domains,2.0
+2507.06944,Fractional Programming for Stochastic Precoding Over Generalized Fading Channels,1.0
+2509.25705,How Diffusion Models Memorize,1.0
+2510.01186,ASTRA: Let Arbitrary Subjects Transform in Video Editing,1.0
+2506.00505,From Rules to Rewards: Reinforcement Learning for Interest Rate Adjustment in DeFi Lending,1.0
+2505.18079,Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding,1.0
+2510.09314,RadioFlow: Efficient Radio Map Construction Framework with Flow Matching,1.0
+2502.03635,UX Challenges in Implementing an Interactive B2B Customer Segmentation Tool,1.0
+2508.19274,Leveraging Language Models and Machine Learning in Verbal Autopsy Analysis,2.0
+2509.11763,MSMA: Multi-Scale Feature Fusion For Multi-Attribute 3D Face Reconstruction From Unconstrained Images,1.0
+2510.24085,Modeling Electric Vehicle Car-Following Behavior: Classical vs Machine Learning Approach,1.0
+2502.06205,C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation,1.0
+2504.14011,Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation,1.0
+2502.09271,LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection,1.0
+2512.15327,Vision-based module for accurately reading linear scales in a laboratory,1.0
+2510.05003,Resource-Efficient Fine-Tuning of LLaMA-3.2-3B for Medical Chain-of-Thought Reasoning,1.0
+2501.13762,On Deciding the Data Complexity of Answering Linear Monadic Datalog Queries with LTL Operators(Extended Version),1.0
+2511.05802,Beyond the Lower Bound: Bridging Regret Minimization and Best Arm Identification in Lexicographic Bandits,1.0
+2509.16760,Feature Selection via Graph Topology Inference for Soundscape Emotion Recognition,1.0
+2506.08836,Advancing STT for Low-Resource Real-World Speech,2.0
+2511.05769,Lived Experience in Dialogue: Co-designing Personalization in Large Language Models to Support Youth Mental Well-being,1.0
+2503.14418,Distributed RISE-Based Control for Exponential Heterogeneous Multi-Agent Target Tracking of Second-Order Nonlinear Systems,1.0
+2505.16533,Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction,1.0
+2502.00196,DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets,1.0
+2502.08447,Deserialization Gadget Chains are not a Pathological Problem in Android:an In-Depth Study of Java Gadget Chains in AOSP,1.0
+2507.03178,Generalized Theta Series of a Lattice,1.0
+2512.16907,Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos,1.0
+2506.09789,Delegations as Adaptive Representation Patterns: Rethinking Influence in Liquid Democracy,1.0
+2505.02500,Automating Automotive Software Development: A Synergy of Generative AI and Model-Based Methods,1.0
+2510.17873,Auditing and Mitigating Bias in Gender Classification Algorithms: A Data-Centric Approach,1.0
+2508.17694,Semantic Search for Information Retrieval,
+2509.10407,Compressed Video Quality Enhancement: Classifying and Benchmarking over Standards,1.0
+2506.18245,Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection,1.0
+2510.11280,Proceedings of the Access InContext Workshop @ CHI'25 Conference on Human Factors in Computing Systems,1.0
+2506.02550,Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025,1.0
+2505.14285,AquaSignal: An Integrated Framework for Robust Underwater Acoustic Analysis,1.0
+2510.01531,Information Seeking for Robust Decision Making under Partial Observability,1.0
+2502.17921,Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness,1.0
+2509.12886,The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations,1.0
+2505.07891,TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking,2.0
+2502.07070,Comprehensive Analysis of Thermal Dissipation in Lithium-Ion Battery Packs,1.0
+2507.23053,In-between Motion Generation Based Multi-Style Quadruped Robot Locomotion,1.0
+2506.12776,Native Visual Understanding: Resolving Resolution Dilemmas in Vision-Language Models,1.0
+2510.25724,BambooKG: A Neurobiologically-inspired Frequency-Weight Knowledge Graph,1.0
