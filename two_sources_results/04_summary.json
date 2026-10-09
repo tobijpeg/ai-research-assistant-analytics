@@ -1,0 +1,10 @@
+{
+  "arxiv_rows": 3,
+  "semantic_scholar_rows": 1,
+  "joined_rows": 3,
+  "matched_rows": 1,
+  "unmatched_rows": 2,
+  "join_type": "LEFT JOIN",
+  "join_key": "arxiv_id",
+  "note": "Live API demonstration; not a reprocessing of the 140576-row dataset."
+}
